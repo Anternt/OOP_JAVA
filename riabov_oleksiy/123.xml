@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.8" class="java.beans.XMLDecoder">
+ <array class="ua.khpi.oop.riabov08.RecruitmentAgency" length="3">
+  <void index="0">
+   <object class="ua.khpi.oop.riabov08.RecruitmentAgency" id="RecruitmentAgency0">
+    <void property="company_name">
+     <string>ADA Company</string>
+    </void>
+    <void property="payment">
+     <int>4500</int>
+    </void>
+    <void property="requirements_for_a_specialist">
+     <void method="put">
+      <string>Специальность </string>
+      <string>Компьютерный инженер</string>
+     </void>
+     <void method="put">
+      <string>Образование </string>
+      <string>3+ года</string>
+     </void>
+     <void method="put">
+      <string>Стаж </string>
+      <string>Высшее</string>
+     </void>
+    </void>
+    <void property="specialty">
+     <string>разработка технологий для обработки текста</string>
+    </void>
+    <void property="working_сonditions">
+     <string>Стаж более 3х лет</string>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="ua.khpi.oop.riabov08.RecruitmentAgency" id="RecruitmentAgency1">
+    <void property="company_name">
+     <string>BMW</string>
+    </void>
+    <void property="payment">
+     <int>5500</int>
+    </void>
+    <void property="requirements_for_a_specialist">
+     <void method="put">
+      <string>Специальность </string>
+      <string>Механик</string>
+     </void>
+     <void method="put">
+      <string>Образование </string>
+      <string>2+ года</string>
+     </void>
+     <void method="put">
+      <string>Стаж </string>
+      <string>-</string>
+     </void>
+    </void>
+    <void property="specialty">
+     <string>Выпуск автомобилей</string>
+    </void>
+    <void property="working_сonditions">
+     <string>Стаж более 2х лет</string>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="ua.khpi.oop.riabov08.RecruitmentAgency" id="RecruitmentAgency2">
+    <void property="company_name">
+     <string>Агенство недвижимости</string>
+    </void>
+    <void property="payment">
+     <int>1500</int>
+    </void>
+    <void property="requirements_for_a_specialist">
+     <void method="put">
+      <string>Специальность </string>
+      <string>Менеджер</string>
+     </void>
+     <void method="put">
+      <string>Образование </string>
+      <string>-</string>
+     </void>
+     <void method="put">
+      <string>Стаж </string>
+      <string>Высшее</string>
+     </void>
+    </void>
+    <void property="specialty">
+     <string>Купле-продажа жилой площади</string>
+    </void>
+    <void property="working_сonditions">
+     <string>Стаж не имеет значения</string>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
